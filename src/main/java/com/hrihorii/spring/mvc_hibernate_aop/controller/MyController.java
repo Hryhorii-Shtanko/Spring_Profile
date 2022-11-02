@@ -1,8 +1,8 @@
-package com.zaurtregulov.spring.mvc_hibernate_aop.controller;
+package com.hrihorii.spring.mvc_hibernate_aop.controller;
 
 
-import com.zaurtregulov.spring.mvc_hibernate_aop.entity.Employee;
-import com.zaurtregulov.spring.mvc_hibernate_aop.service.EmployeeService;
+import com.hrihorii.spring.mvc_hibernate_aop.entity.Employee;
+import com.hrihorii.spring.mvc_hibernate_aop.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
